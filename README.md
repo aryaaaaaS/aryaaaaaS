@@ -16,7 +16,7 @@ Check out my [**portfolio**](https://www.arya.impic.tech) to see a about me.
 
 - [**Github**](https://github.com/aryaaaaaS/aryaaaaaS): Showcasing front-end design and development projects.
 - [**Discord**](https://discord.com/channels/@me/1268567035064090708): Sharing creative design work and inspiration.
-- [**Tech-Community**](https://www.community.impic.tech/): Demonstrating cloud skills and certifications.
+- [**Tech-Community**](https://www.community.impic.tech/): Check our community website.
 
 ## 💬 Connect
 
