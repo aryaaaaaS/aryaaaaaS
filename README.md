@@ -10,6 +10,7 @@ Hello! I am a **Freelancer** and **Front-End Developer** specializing in **JavaS
 ## 🌐 Portfolio
 
 Check out my [**portfolio**](https://www.arya.impic.tech) to see a about me.
+Check out my [**projects**](https://vercel.com/aryas-projects-45d80c55) to see my projects.
 
 
 ## 📌 Profiles
