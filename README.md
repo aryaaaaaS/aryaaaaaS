@@ -1,7 +1,5 @@
-# Aryaa code's
-
-![image](https://github.com/user-attachments/assets/93fc3f26-fd17-483b-bc6f-177df0ccc524)
- 
+# AryaaDev  
+![Screenshot 2024-11-16 232514](https://github.com/user-attachments/assets/3576726b-b051-479c-9ccf-7ce6cd7f41a7)
 
 ## 👋 About
 
