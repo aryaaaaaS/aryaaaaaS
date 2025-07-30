@@ -25,9 +25,9 @@
 <div align="start">
   
 <a href="mailto:aryaaakiran8106@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/arya-shendge-011a11328/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-shendge-011a11328/)
 <a href="https://www.flaticon.com/free-icons/curriculum-vitae" title="curriculum vitae icons"></a>
-<a href="https://https://arya-dev-three.vercel.app/" target="_blank">
+<a href="https://arya-dev-three.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1A1A1A.svg?logo=vercel&logoColor=white">
 </a>
 </div>
